@@ -124,7 +124,7 @@ body{
 }
 
 .compre-ja{
-    background-color: brown;
+    background-color: rgba(24, 19, 19, 0.1);
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -151,7 +151,7 @@ body{
 }
 
 .compre-ja  .informacoes{
-    background-color: brown;
+    background-color: rgba(255, 255, 255, .1);
     display: flex;
     flex-direction: column;
     gap: 30px;
